@@ -1,1 +1,3 @@
-# Bank-customer-analysis-
+# Bank-customer-analysis.
+
+Owner: Vishali, Karishma.
